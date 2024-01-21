@@ -52,7 +52,7 @@ The challenge is to create a timer and it should have the following functionalit
   cd project
 
   #run Application
-  cd ./mvn spring:run
+  cd ./mvn spring-boot:run
 ```
 
 <h1 id="contacts"> 📩 My contacts</h1>
