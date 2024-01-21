@@ -4,6 +4,8 @@
 <h4>🎉Welcome! This RESTful-API was created with the intention of being a project that is capable of: showing products and their values, showing which category these products belong to, creating users, showing user items, details of user items, such as payment status and time of payment.</h4>
  <a href="#about">• About</a>
  </br>
+  <a href="#examples">• Examples</a>
+ </br>
   <a href="#technologies">• Technologies</a>
  </br>
  <a href="#installation">• Installation</a>
@@ -21,6 +23,15 @@ The challenge is to create a timer and it should have the following functionalit
 ✅list products</br>
 ✅list user orders
 </br></br>
+
+<h1 id="examples">⚙️ Examples</h1>
+
+<Image>![carbon (3)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/1312b041-dfcd-4c8a-b898-6918a0b2a570)</Image>
+<Image>![carbon (4)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/f3000b48-c11b-4938-afe5-8ab109f8c4eb)</Image>
+<Image>![carbon (5)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/1147340c-b4f9-40c8-b5b6-1b65eee3604c)</Image>
+<Image>![carbon (6)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/3e05baad-9bf5-4b70-881a-db0832dbf66b)</Image>
+<Image>![carbon (7)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/14ba4088-00b7-45fd-a435-820ecd30f6f4)</Image>
+<Image>![carbon (8)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/99a4f797-ba34-4fea-84c8-6c2f715d9403)</Image>
 
  <h1 id="technologies"> 🧠 Technologies</h1>
 
