@@ -31,7 +31,8 @@ The challenge is to create a timer and it should have the following functionalit
 <Image>![carbon (5)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/1147340c-b4f9-40c8-b5b6-1b65eee3604c)</Image>
 <Image>![carbon (6)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/3e05baad-9bf5-4b70-881a-db0832dbf66b)</Image>
 <Image>![carbon (7)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/14ba4088-00b7-45fd-a435-820ecd30f6f4)</Image>
-<Image>![carbon (8)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/99a4f797-ba34-4fea-84c8-6c2f715d9403)</Image>
+<Image>![carbon (9)](https://github.com/Rodrigues-Gustavo/api_project_spring/assets/102608021/656896fc-cf41-4772-86ae-ab0c7bb17cc4)
+</Image>
 
  <h1 id="technologies"> 🧠 Technologies</h1>
 
